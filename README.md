@@ -40,7 +40,7 @@ Work Experience
 
 ### Oct 2020 – Now | Fafe 🇵🇹
 
-*   | Solutions Array | Business Pitch Deck | [https://solutionsarray.github.io/](https://solutionsarray.github.io/)
+*   | Solutions Array | Business Pitch Deck | [https://pedro-profile.github.io/](https://pedro-profile.github.io/)
 *   Websites, E-commerce, Applications, Maintenance, Marketing, Hosting, Storage.
 
 ### 🏢 GAVS TECHNOLOGIES
