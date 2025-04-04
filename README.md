@@ -10,7 +10,7 @@
 
 
 
-https://github.com/pedro-profile/cv/assets/server
+https://github.com/pedro-profile/cv/assets/server.png
 
 
 
