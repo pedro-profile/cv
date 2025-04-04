@@ -2,11 +2,9 @@
 
 
 
-
-
-
 [![](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)
 
+  
   
 
 ### 🌐 100% Remote Web Developer 🙂
