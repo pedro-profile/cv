@@ -6,7 +6,7 @@
 
   
 
-https://pedro-profile.github.io/cv/assets/server.png
+https://pedro-profile.github.io/cv/assets/663.5KiB_Pedro-Carvalho.jpg
 
 
 
