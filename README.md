@@ -20,7 +20,7 @@ pedro-profile
 
 ####   [](skype:live:skype.user.n.1?call)
 
-[Call me on Teams.](skype:skype.user.n.1?call) If you don't have Teams installed, download it from [here](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+[Call me on Teams.](skype:skype.user.n.1?call) If you don't have Teams installed, download it from [here](http://www.skype.com/)
 
 * * *
 
