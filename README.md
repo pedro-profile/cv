@@ -6,7 +6,7 @@
 
   
 
-663.5KiB_Pedro-Carvalho.jpg
+https://pedro-profile.github.io/cv/assets/server.png
 
 
 
