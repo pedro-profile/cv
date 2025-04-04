@@ -1,18 +1,6 @@
 # 👨‍💼 Pedro Carvalho - HTML/CSS/JS Resume <br> https://pedro-profile.github.io/cv/
 
-
-
 [![](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)
-
-  
-
-
-
-
-
-
-
-
 
 
 
