@@ -10,11 +10,11 @@ top: 70px;
 }
 
 
-/* Teams Icon Color Filter */
+/* Teams Icon Color Filter - Start */
 .filter-yellow{
 	filter: invert(68%) sepia(64%) saturate(724%) hue-rotate(5deg) brightness(113%) contrast(104%);
 		}
-
+/* Teams Icon Color Filter - Start */
 
 
 
