@@ -25,7 +25,7 @@
 
   |  
 
-#### [__ workrelated055@gmail.com.com](mailto:info@solutionsarray.com)
+#### [__ workrelated055@gmail.com](mailto:info@solutionsarray.com)
 
   |
 
