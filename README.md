@@ -31,7 +31,7 @@
 
 ####   [](skype:live:skype.user.n.1?call)
 
-[Call me on Skype.](skype:skype.user.n.1?call) If you don't have Skype installed, download it from [here](http://www.skype.com/)
+[Call me on Teams.](skype:skype.user.n.1?call) If you don't have Teams installed, download it from [here](http://www.skype.com/)
 
 * * *
 
