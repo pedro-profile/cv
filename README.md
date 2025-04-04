@@ -1,17 +1,17 @@
-# 👨‍💼 Pedro Carvalho - HTML/CSS/JS Resume <br> https://pedro-profile.github.io/cv/
+# 👨‍💼 Pedro Carvalho - HTML/CSS/JS Resume <br> https://pedro-profile.github.io/html/
 
 
 
 
 
 
-[![](http://mixed.solutionsarray.com/wp-content/uploads/2024/02/663.5-KiB_Pedro-Carvalho.jpg)](http://mixed.solutionsarray.com/wp-content/uploads/2024/02/663.5-KiB_Pedro-Carvalho.jpg)
+[![](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)](https://pedro-profile.github.io/assets/663.5KiB_Pedro-Carvalho.jpg)
 
   
 
 ### 🌐 100% Remote Web Developer 🙂
 
-[](https://github.com/solutionsarray)  [](https://codepen.io/solutionsarray) [](https://www.linkedin.com/in/SolutionsArray/)
+[](https://github.com/pedro-profile)  [](https://codepen.io/https://github.com/pedro-profile) [](https://www.linkedin.com/in/pedro-profile1/)
 
 #### [__ 00351 933 294 116](tel:00351933294116)
 
