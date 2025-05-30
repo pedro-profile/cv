@@ -60,7 +60,7 @@ top: 70px;
 .title hr {
 	width: 75%;
 }
-.join p, h1{
+.join p, h1,h3,h5{
 	display: inline-block;
 	text-align: center;
 	li ne-height: 25px;
